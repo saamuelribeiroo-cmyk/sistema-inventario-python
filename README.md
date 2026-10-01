@@ -12,7 +12,7 @@ Exclusão de equipamentos
 Resumo do inventário
 Armazenamento de informações dos equipamentos.
 
-Informações dos equipamentos:
+Informações dos equipamentos
 Cada equipamento pode possuir informações como:
 Nome do equipamento
 Valor
