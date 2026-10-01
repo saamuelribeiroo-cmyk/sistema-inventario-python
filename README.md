@@ -13,7 +13,7 @@ Resumo do inventário
 Armazenamento de informações dos equipamentos.
 
 Informações dos equipamentos
-Cada equipamento pode possuir informações como:
+cada equipamento pode possuir informações como:
 Nome do equipamento
 Valor
 Número de série
