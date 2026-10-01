@@ -10,7 +10,7 @@ Localização de equipamentos
 Cálculo de depreciação
 Exclusão de equipamentos
 Resumo do inventário
-Armazenamento de informações dos equipamentos
+Armazenamento de informações dos equipamentos.
 
 Informações dos equipamentos
 Cada equipamento pode possuir informações como:
@@ -27,8 +27,6 @@ Condicionais
 Laços de repetição
 Manipulação de dados
 
-
-Objetivo
 Projeto desenvolvido para praticar Python e lógica de programação, aplicando conceitos de funções,
 estruturas de dados, manipulação de informações e desenvolvimento de um sistema de gerenciamento.
 
