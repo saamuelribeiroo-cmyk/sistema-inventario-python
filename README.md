@@ -3,7 +3,7 @@ Sistema de Inventário
 Sistema desenvolvido em Python para gerenciamento e controle de equipamentos de um inventário. O projeto permite cadastrar
 equipamentos e consultar,localizar,atualizar e remover informações armazenadas no sistema.
 
-Funcionalidades
+Funcionalidades:
 Cadastro de equipamentos
 Exibição dos equipamentos cadastrados
 Localização de equipamentos
@@ -12,14 +12,14 @@ Exclusão de equipamentos
 Resumo do inventário
 Armazenamento de informações dos equipamentos.
 
-Informações dos equipamentos
+Informações dos equipamentos:
 Cada equipamento pode possuir informações como:
 Nome do equipamento
 Valor
 Número de série
 Departamento
 
-Tecnologias utilizadas
+Tecnologias utilizadas:
 Python
 Estruturas de dados
 Funções
