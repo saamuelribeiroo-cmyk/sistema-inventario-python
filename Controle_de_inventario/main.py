@@ -1,5 +1,5 @@
 # Sistema de Controle de Inventário de Equipamentos
-from Controle_de_inventario.identificacaodefuncoes import *
+from Controle_de_inventario.funcoes_inventario import *
 
 minhalista = []
 print('Preenchendo')
